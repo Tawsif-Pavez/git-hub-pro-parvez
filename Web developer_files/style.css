@@ -1,0 +1,9 @@
+/* nav related style */
+
+/* share sytles */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+nav{
+    display: flex;
+}
